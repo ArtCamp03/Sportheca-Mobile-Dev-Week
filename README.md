@@ -1,2 +1,2 @@
 # Sportheca-Mobile-Dev-Week
-aplicaçao mobile ,sendo um jogo de futebol criado em kotlin
+aplicaçao mobile ,que simula partidas de futebol , criado em kotlin
