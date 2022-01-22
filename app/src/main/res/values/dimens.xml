@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="teamImageSize">120dp</dimen>
+    <dimen name="appo_bar_heigth">152dp</dimen>
+    <dimen name="app_bar_heigth">152dp</dimen>
+    <dimen name="app_bar_height">152dp</dimen>
+</resources>

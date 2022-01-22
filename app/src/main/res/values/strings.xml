@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simulator</string>
+    <string name="btn_simulator">Botao de simulaçao de partidas</string>
+    <string name="timeMandante">Imagem do time mandante</string>
+    <string name="txt_versus">X</string>
+    <string name="time_adversario">Imagem time adiversario</string>
 </resources>
