@@ -17,5 +17,7 @@ public class MainActivitiJava extends AppCompatActivity {
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
+
     }
 }
